@@ -1,7 +1,10 @@
 #!/usr/bin/python3
+<<<<<<< HEAD
 # 7-add_tuple.py
 # Brennan D Baraban <375@holbertonschool.com>
 
+=======
+>>>>>>> 135b120004f2d3c2dad96982f601b2973ae6e36f
 
 def add_tuple(tuple_a=(), tuple_b=()):
     """Add two tuples."""

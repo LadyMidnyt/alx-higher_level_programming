@@ -1,7 +1,10 @@
 #!/usr/bin/python3
+<<<<<<< HEAD
 # 4-new_in_list.py
 # Brennan D Baraban <375@holbertonschool.com>
 
+=======
+>>>>>>> 135b120004f2d3c2dad96982f601b2973ae6e36f
 
 def new_in_list(my_list, idx, element):
     """Replace an element in a copied list at a specific position."""
