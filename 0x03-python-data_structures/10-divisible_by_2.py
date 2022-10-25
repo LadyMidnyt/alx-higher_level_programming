@@ -1,4 +1,10 @@
 #!/usr/bin/python3
+<<<<<<< HEAD
+# 10-divisible_by_2.py
+# Brennan D Baraban <375@holbertonschool.com>
+
+=======
+>>>>>>> 135b120004f2d3c2dad96982f601b2973ae6e36f
 
 def divisible_by_2(my_list=[]):
     """Find all multiples of 2 in a list."""

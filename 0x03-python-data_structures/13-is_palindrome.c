@@ -1,3 +1,11 @@
+<<<<<<< HEAD
+/*
+ * File: 13-is_palindrome.c
+ * Auth: Brennan D Baraban
+ */
+
+=======
+>>>>>>> 135b120004f2d3c2dad96982f601b2973ae6e36f
 #include "lists.h"
 
 listint_t *reverse_listint(listint_t **head);

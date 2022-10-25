@@ -1,3 +1,11 @@
+<<<<<<< HEAD
+/*
+ * File: 100-print_python_list_info.c
+ * Auth: Brennan D Baraban
+ */
+
+=======
+>>>>>>> 135b120004f2d3c2dad96982f601b2973ae6e36f
 #include <Python.h>
 
 /**
